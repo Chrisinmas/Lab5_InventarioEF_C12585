@@ -1,7 +1,8 @@
 ﻿using Lab5_InventarioEF.Models;
+using Lab5_InventarioEF_C12585.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Lab5_InventarioEF.Data
+namespace Lab5_InventarioEF_C12585.Data
 {
     public class AppDbContext : DbContext
     {
