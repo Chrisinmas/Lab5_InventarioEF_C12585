@@ -1,0 +1,8 @@
+CREATE TABLE Productos (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Precio DECIMAL(18,2) NOT NULL,
+    Categoria NVARCHAR(MAX) NOT NULL,
+    Activo BIT NOT NULL,
+    FechaIngreso DATETIME2 NOT NULL
+);
