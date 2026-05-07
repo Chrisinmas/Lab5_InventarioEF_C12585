@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Lab5_InventarioEF.Models
+namespace Lab5_InventarioEF_C12585.Models
 {
     public class Producto
     {

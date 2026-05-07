@@ -1,5 +1,4 @@
-﻿using Lab5_InventarioEF.Models;
-using Lab5_InventarioEF_C12585.Models;
+﻿using Lab5_InventarioEF_C12585.Models;
 
 namespace Lab5_InventarioEF_C12585.Repositories
 {
